@@ -5,7 +5,7 @@ Not all of the problems and chapters have been, read, yet these are the problems
 
 Most of the problems were solved throuhgout the last year in spare time.  I have no previous coding experience, so it is my best attempt at the answers.
 
-Most of these were accomplished on the interpreter Racket, and some on Geany. 
+Most of these were accomplished on the interpreter Racket, and some on Geany. Python and the language specific to the SICP textbook were used.
 
 
 Similarly, other small programs I wrote for the fun of it.  
