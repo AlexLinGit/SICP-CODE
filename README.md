@@ -7,4 +7,8 @@ Most of the problems were solved throuhgout the last year in spare time.  I have
 
 Most of these were accomplished on the interpreter Racket, and some on Geany. 
 
+
+Similarly, other small programs I wrote for the fun of it.  
+
+
 Enjoy!
